@@ -1,0 +1,27 @@
+{
+  "name": "scroll-start-stop-events",
+  "version": "1.0.0",
+  "description": "Apply scrollstart and scrollstop events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formfcw/scroll-start-stop-events.git"
+  },
+  "keywords": [
+    "scroll",
+    "scrollstart",
+    "scrollstop",
+    "scrollend",
+    "scroll",
+    "events"
+  ],
+  "author": "formfcw <dev@formfcw.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/formfcw/scroll-start-stop-events/issues"
+  },
+  "homepage": "https://github.com/formfcw/scroll-start-stop-events#readme"
+}
